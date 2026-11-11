@@ -10,9 +10,13 @@
 
 实际软件的截图偏好设置页面，展示截图模式、快捷键与截图效果设置。
 
+## 下载安装
+
+从 [GitHub Releases](https://github.com/ponylabs/ishot-lite/releases) 下载 DMG，打开后将应用拖入 Applications。当前发布仅支持 Apple Silicon；签名与系统兼容限制见上文。
+
 ## 开始使用工程
 
-先读 [开发说明](docs/development.md) 和 [测试说明](docs/testing.md)。常规构建入口为 `make -C reconstruction`；已有 DMG 位于 `reconstruction/dist/`。验证或重新打包前保护既有产物，不把旧 JSON 报告当成新验证。
+先读 [开发说明](docs/development.md) 和 [测试说明](docs/testing.md)。常规构建入口为 `make -C reconstruction`；本地打包产物位于 `reconstruction/dist/`，不包含在源码检出中。验证或重新打包前保护既有产物，不把旧 JSON 报告当成新验证。
 
 ## 导航
 
