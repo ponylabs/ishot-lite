@@ -1,0 +1,20 @@
+// Original zero-fill storage; types established by load/store and message use.
+NSString * IShotGlobal_1001ddec8;
+NSString * IShotGlobal_1001dded0;
+int32_t IShotGlobal_1001dde68;
+int32_t IShotGlobal_1001f18d0;
+BOOL IShotGlobal_1001dde90;
+BOOL IShotGlobal_1001dde92;
+BOOL IShotGlobal_1001dde93;
+BOOL IShotGlobal_1001dde95;
+BOOL IShotGlobal_1001f18cc;
+BOOL IShotGlobal_1001f18cd;
+BOOL IShotGlobal_1001f18ce;
+double IShotGlobal_1001ddea0;
+double IShotGlobal_1001ddea8;
+double IShotGlobal_1001ddeb0;
+double IShotGlobal_1001ddeb8;
+double IShotGlobal_1001f18d8;
+float IShotGlobal_1001dde98;
+NSString *IShotGlobal_1001ddde8,*IShotGlobal_1001dde78;
+BOOL IShotGlobal_1001dde91,IShotGlobal_1001ddec0;

@@ -1,0 +1,930 @@
+{
+  "scope": "Existing production inputs retained byte-for-byte; source paths refer to the external historical archive, not build dependencies. Rights are not implied by relocation.",
+  "files": [
+    {
+      "source": "recovery/resources/Contents/Resources/webp/decode.h",
+      "path": "reconstruction/Dependencies/webp/decode.h",
+      "sha256": "820200b6c68adc9e64eefce0871b853cbb0a70d92748b7bc555a2f7ff1f6b360"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/webp/demux.h",
+      "path": "reconstruction/Dependencies/webp/demux.h",
+      "sha256": "c37bd27299d984b7d9ee564bf25873f6620a0a6a0975e44adf0abeed628999af"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/webp/encode.h",
+      "path": "reconstruction/Dependencies/webp/encode.h",
+      "sha256": "39b04299c91eeecc7d5b822c6d8a4d2ed4169c5dfb481c7f49a0414f19601d1a"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/webp/libs/libsharpyuv.a",
+      "path": "reconstruction/Dependencies/webp/libs/libsharpyuv.a",
+      "sha256": "3b629a306962723647bfb8805af2ed36e10a5f0dbf7c148d23f882b182346c64"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/webp/libs/libwebp.a",
+      "path": "reconstruction/Dependencies/webp/libs/libwebp.a",
+      "sha256": "e355b0b25260bd17251d8068a53d75d5f8eac1437984ce9d5a92829df9274efa"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/webp/libs/libwebpdemux.a",
+      "path": "reconstruction/Dependencies/webp/libs/libwebpdemux.a",
+      "sha256": "743a0f333f381007a23f9d1a1f67a518bef32df054b0739d6d1dfee3024dfdbb"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/webp/mux_types.h",
+      "path": "reconstruction/Dependencies/webp/mux_types.h",
+      "sha256": "6428e5370592103cc0358017c894c66ad811cb8123efddd5f69724eb283e8539"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/webp/types.h",
+      "path": "reconstruction/Dependencies/webp/types.h",
+      "sha256": "c0a3c46ad233e765a2f72ccda668c47a726dba7c479671f0bd70a3e57d5b3290"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/ARM/ffmpeg",
+      "path": "reconstruction/Dependencies/ffmpeg/ARM/ffmpeg",
+      "sha256": "c583d30565459c8a886860524c50ac2cc99e76b4547ca9fbd0ccafc855a4c8af"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/ARM/libSvtAv1Enc.0.dylib",
+      "path": "reconstruction/Dependencies/ffmpeg/ARM/libSvtAv1Enc.0.dylib",
+      "sha256": "57661f9fc90dd2a50e498131512a4d8e715ee6be1bca6f4e90fb45d96e96cef2"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/ARM/libaom.3.dylib",
+      "path": "reconstruction/Dependencies/ffmpeg/ARM/libaom.3.dylib",
+      "sha256": "6f5e6a2fb2501d0fb9834cbcbd47b967404b7788974d16d309673d12801784b3"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/ARM/libavcodec.58.dylib",
+      "path": "reconstruction/Dependencies/ffmpeg/ARM/libavcodec.58.dylib",
+      "sha256": "f7f7fb74df215c47318f0f34fc3acddde002d2ce5b1633d8c57830f5061fe5de"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/ARM/libavdevice.58.dylib",
+      "path": "reconstruction/Dependencies/ffmpeg/ARM/libavdevice.58.dylib",
+      "sha256": "47d4a728e7265754e27b6a920abcd99838f405c5aea28ed13537fdf714769191"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/ARM/libavfilter.7.dylib",
+      "path": "reconstruction/Dependencies/ffmpeg/ARM/libavfilter.7.dylib",
+      "sha256": "741c95bf9f0542d345a58c3ab540dd2aa4565f1521d6801c65555ba492b73097"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/ARM/libavformat.58.dylib",
+      "path": "reconstruction/Dependencies/ffmpeg/ARM/libavformat.58.dylib",
+      "sha256": "30bcf9c090617190a013507350a0ccd961f5e456042b78b5992bf2905e036f50"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/ARM/libavresample.4.dylib",
+      "path": "reconstruction/Dependencies/ffmpeg/ARM/libavresample.4.dylib",
+      "sha256": "b7c0902d11bd33947d58124683fdd5f486db009f706cb6560f80b6291bbc9e3e"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/ARM/libavutil.56.dylib",
+      "path": "reconstruction/Dependencies/ffmpeg/ARM/libavutil.56.dylib",
+      "sha256": "0959a683c20c50f3e480f9baab7396277f49699f48310c23fe7ae353ad155964"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/ARM/libbz2.dylib",
+      "path": "reconstruction/Dependencies/ffmpeg/ARM/libbz2.dylib",
+      "sha256": "97a87668dddc979ed217c5dcc35d8ee4b622df83c6bbd0970390c2e15bcad7d5"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/ARM/libc++.1.dylib",
+      "path": "reconstruction/Dependencies/ffmpeg/ARM/libc++.1.dylib",
+      "sha256": "e702847c967e44ef96ce27cdfdb5e456b1ae7d3147959eba18197955d7a95c8e"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/ARM/libfreetype.6.dylib",
+      "path": "reconstruction/Dependencies/ffmpeg/ARM/libfreetype.6.dylib",
+      "sha256": "3bf18ac734ce7c731e27bcbad9e853376ae6d481cd672a5a634ff0029fed2141"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/ARM/libgnutls.30.dylib",
+      "path": "reconstruction/Dependencies/ffmpeg/ARM/libgnutls.30.dylib",
+      "sha256": "da4889e641d2b1c7a2c20eea32f7abd7f82bdc96d05a947423874865d90a0057"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/ARM/libhogweed.6.dylib",
+      "path": "reconstruction/Dependencies/ffmpeg/ARM/libhogweed.6.dylib",
+      "sha256": "1260182f7bd32db5d123a15321fd98f033f94792666ff80c530a8262e0d027c0"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/ARM/libiconv.2.dylib",
+      "path": "reconstruction/Dependencies/ffmpeg/ARM/libiconv.2.dylib",
+      "sha256": "61c7acb5146edc4c3c09c88112a60ae19b65df74a0aed04cc4555b8439c334dd"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/ARM/libicudata.68.dylib",
+      "path": "reconstruction/Dependencies/ffmpeg/ARM/libicudata.68.dylib",
+      "sha256": "a0a49b657727f9cd90f3762c363c4fc55860615b2c7e3bcf18fde817d3e06462"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/ARM/libicuuc.68.dylib",
+      "path": "reconstruction/Dependencies/ffmpeg/ARM/libicuuc.68.dylib",
+      "sha256": "549a408520996377b914ea38d12fd04d95d90e513b42657dec3670a058c0ed84"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/ARM/libintl.8.dylib",
+      "path": "reconstruction/Dependencies/ffmpeg/ARM/libintl.8.dylib",
+      "sha256": "300bd3f49397c84e0d3775baa9d7e1194ca02b6d7bbddec888e028bda5b7beb7"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/ARM/liblzma.5.dylib",
+      "path": "reconstruction/Dependencies/ffmpeg/ARM/liblzma.5.dylib",
+      "sha256": "bcef292cb5b7349a5fa1fba9a42b32a0b962375fd2c794cf7612a60a6cb04d37"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/ARM/libmp3lame.0.dylib",
+      "path": "reconstruction/Dependencies/ffmpeg/ARM/libmp3lame.0.dylib",
+      "sha256": "a6346a52bfa702d1bbe88842ba55fb10e25d1efa685fc8be38bf3463bc8503ff"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/ARM/libnettle.8.dylib",
+      "path": "reconstruction/Dependencies/ffmpeg/ARM/libnettle.8.dylib",
+      "sha256": "a2292cd2f6697f89ddda7f891926760ceba8ed55449f4cce5617d1015fec5a55"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/ARM/libopenh264.6.dylib",
+      "path": "reconstruction/Dependencies/ffmpeg/ARM/libopenh264.6.dylib",
+      "sha256": "c478129c87eae9b1a988ae009ab933a38a96f76488f5a4762b3cfe0bb4c0af7a"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/ARM/libpng16.16.dylib",
+      "path": "reconstruction/Dependencies/ffmpeg/ARM/libpng16.16.dylib",
+      "sha256": "bf612636ca1ff8ea06120e890778065ce50c6cdc53416cebc9dbead8eca4411d"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/ARM/libpostproc.55.dylib",
+      "path": "reconstruction/Dependencies/ffmpeg/ARM/libpostproc.55.dylib",
+      "sha256": "8df8065df41d8edf14a89d2ff60336202c817dd885009e8d21b02f7ea6364c4e"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/ARM/libswresample.3.dylib",
+      "path": "reconstruction/Dependencies/ffmpeg/ARM/libswresample.3.dylib",
+      "sha256": "fc55d5a5623b669fd3118dbcf6bd3efd379b74f9a7146afb6a3bb255ca01042a"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/ARM/libswscale.5.dylib",
+      "path": "reconstruction/Dependencies/ffmpeg/ARM/libswscale.5.dylib",
+      "sha256": "85d2b226419de3755ee87405660c1994b55a89aee81f7d4f1866b7c1eb82efb1"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/ARM/libvpx.7.dylib",
+      "path": "reconstruction/Dependencies/ffmpeg/ARM/libvpx.7.dylib",
+      "sha256": "b12f3f1443a5bdcb6d2ff120deafc2894862d3d5bf2a2a74c65dbf6bfaf8df04"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/ARM/libx264.161.dylib",
+      "path": "reconstruction/Dependencies/ffmpeg/ARM/libx264.161.dylib",
+      "sha256": "f8d383c94eff9bd04dd832ddabf902764c5f1a7bc6f69ceeb827898bf5cd9949"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/ARM/libx265.199.dylib",
+      "path": "reconstruction/Dependencies/ffmpeg/ARM/libx265.199.dylib",
+      "sha256": "d5d6bde06e69ab2b6b053a90acef67bd46309ce44dd07cbad97eba6680cac48b"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/ARM/libxml2.2.dylib",
+      "path": "reconstruction/Dependencies/ffmpeg/ARM/libxml2.2.dylib",
+      "sha256": "5a5a10834a218f22ecee2ac13674da3c54f2a1d435a57cedf288da88596b3e99"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/ARM/libz.1.dylib",
+      "path": "reconstruction/Dependencies/ffmpeg/ARM/libz.1.dylib",
+      "sha256": "bf43b89035083b3bb896c71d893d24d1adc22303249300c0fbd1bd4ccc5ff23a"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/Accessbility@2x.png",
+      "path": "reconstruction/Resources/App/Accessbility@2x.png",
+      "sha256": "54f9b511e9cf16d0e1334fa1413f38db022d505973c104786710967b5a6b1542"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/Assets.car",
+      "path": "reconstruction/Resources/App/Assets.car",
+      "sha256": "97872dd2a0a115c3b75635fa56eadbaafd9ffcf3ce7653f730cc2df15d0c148f"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/Authority@2x.png",
+      "path": "reconstruction/Resources/App/Authority@2x.png",
+      "sha256": "0746ecede15c10e872966133840b7fc40982661111b73f506a76bd61aa12d9de"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/Base.lproj/FFmpegCommandTool.nib",
+      "path": "reconstruction/Resources/App/Base.lproj/FFmpegCommandTool.nib",
+      "sha256": "2f49c8e9e321803275c8acd904ceae744540c438d4961fbc1b630856a87be266"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/Base.lproj/KeyEventSettingPopoverView.nib",
+      "path": "reconstruction/Resources/App/Base.lproj/KeyEventSettingPopoverView.nib",
+      "sha256": "df4dbd7b9f56ad7c048a322c4c7f7851fb57a56084160d233d243c052a065969"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/Base.lproj/MainMenu.nib",
+      "path": "reconstruction/Resources/App/Base.lproj/MainMenu.nib",
+      "sha256": "51678f7d47a3c74550a2eb4566a1ed935a2787717496fe2523f6de20b9a53114"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/Base.lproj/PinLibrary.nib",
+      "path": "reconstruction/Resources/App/Base.lproj/PinLibrary.nib",
+      "sha256": "8ce3ca40e3e2195ab385562db78e43a85d2127726c805e8fce500479d27053bc"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/Base.lproj/Preferences.nib/keyedobjects-101300.nib",
+      "path": "reconstruction/Resources/App/Base.lproj/Preferences.nib/keyedobjects-101300.nib",
+      "sha256": "071142881e75a90088dc44d569dbda04298087c399bc9ed5df9a83f22d45320c"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/Base.lproj/Preferences.nib/keyedobjects-110000.nib",
+      "path": "reconstruction/Resources/App/Base.lproj/Preferences.nib/keyedobjects-110000.nib",
+      "sha256": "afdbec14b1148cab5dddff520456c02c73bcf622bcddebd9edf5ab4f92ed6496"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/Base.lproj/RecordAudio.nib",
+      "path": "reconstruction/Resources/App/Base.lproj/RecordAudio.nib",
+      "sha256": "0ea4837614d857aa7094a6c3260d60af7b65358bb41c85bd6ed8021aea9e71ca"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/Base.lproj/SGVideoControlsViewController.nib",
+      "path": "reconstruction/Resources/App/Base.lproj/SGVideoControlsViewController.nib",
+      "sha256": "60837b57b704f6b9d4d212210f8ad5ef0102e538dee5b73152a17f82fe552de0"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/Base.lproj/ScreenshotWithShell.nib",
+      "path": "reconstruction/Resources/App/Base.lproj/ScreenshotWithShell.nib",
+      "sha256": "61dd69d1a6deedf43765f1ca079fc60f2c21697137253ae89381d1163ba91c35"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/Base.lproj/ShellWindow.nib",
+      "path": "reconstruction/Resources/App/Base.lproj/ShellWindow.nib",
+      "sha256": "a9bdb17d856de8bb10144c34c2761dedc1fc2b673bde9034727b42c777269591"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/CameraWindow.nib",
+      "path": "reconstruction/Resources/App/CameraWindow.nib",
+      "sha256": "d957255df008e40b0faf742f0ab5680f97092eb2810fabce3c07cef09bc4f075"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/CollectionViewItem.nib",
+      "path": "reconstruction/Resources/App/CollectionViewItem.nib",
+      "sha256": "1cce257199a6bc7eec2526f1fff9c131b9e3b47ee50af79ce63820d08ac9a071"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/DefaultPreferences.plist",
+      "path": "reconstruction/Resources/App/DefaultPreferences.plist",
+      "sha256": "1aea9b85e9e832c1931ea83dc27a26592c81b518f67a429a6a28ccd3d0ca9da3"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/Folder@2x.png",
+      "path": "reconstruction/Resources/App/Folder@2x.png",
+      "sha256": "c98b9068548cb01e3b084aed6c8453c9863c03a9cd1753460a107db0893d965f"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/FreeAppsItem.nib",
+      "path": "reconstruction/Resources/App/FreeAppsItem.nib",
+      "sha256": "2b00acf00af7cea0853bc167d17ed308c6fa115c21f4e87ae28ae9c3952bc6f9"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/FullDiskAccess@2x.png",
+      "path": "reconstruction/Resources/App/FullDiskAccess@2x.png",
+      "sha256": "83cac081e3c60752d7e16e209dc29f9f2228a14a82f24d2d18c5647431272d5a"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/Funk.aiff",
+      "path": "reconstruction/Resources/App/Funk.aiff",
+      "sha256": "770178bd564eace71a74d6da2cb82aecef77ceb446a9de5e58e8dcf06757ad20"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/InputMonitoring@2x.png",
+      "path": "reconstruction/Resources/App/InputMonitoring@2x.png",
+      "sha256": "77ec856f364acb17794aa9d91f66fbfad219341e058041a8caa8f6c308c82a95"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/MXRecordScreenWindowController.nib",
+      "path": "reconstruction/Resources/App/MXRecordScreenWindowController.nib",
+      "sha256": "70ea8cc8a26f3fe00be86fd3cdd264d8ac19cfddad432fe052c64d10eaaabeef"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/PinLibraryCollectionViewItem.nib",
+      "path": "reconstruction/Resources/App/PinLibraryCollectionViewItem.nib",
+      "sha256": "71d344742e14fe0c0e8c265d60ba9137a2bc7a252654063578b54a87705f8b32"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/ScreenRecording@2x.png",
+      "path": "reconstruction/Resources/App/ScreenRecording@2x.png",
+      "sha256": "c3fd349feb2482bdab5d0019139d360ec7e07a18168ec40590e537c882dda12d"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/Volume Mount.aiff",
+      "path": "reconstruction/Resources/App/Volume Mount.aiff",
+      "sha256": "97229b729d2401102959e2fd390d328eae980ea6050b85fd564a4ab8e51ab5fb"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/arrowUp@2x.png",
+      "path": "reconstruction/Resources/App/arrowUp@2x.png",
+      "sha256": "6d98a205dfda6ee3424b330974b5c47ac4644f12beed8876ae2baceb1c683853"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/de.lproj/LCAppExpirationManager.strings",
+      "path": "reconstruction/Resources/App/de.lproj/LCAppExpirationManager.strings",
+      "sha256": "f22c90ef27ac748cec5e67a4252ac9e82e0ac74bcf876536ea901845b24a8be8"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/de.lproj/LCAppStoreUpdateKit.strings",
+      "path": "reconstruction/Resources/App/de.lproj/LCAppStoreUpdateKit.strings",
+      "sha256": "ee77ff046e31bf0cde94220c20f6e5641fd7445deaf01ee0ff69617d6393feb3"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/de.lproj/LCAuthGuideKit.strings",
+      "path": "reconstruction/Resources/App/de.lproj/LCAuthGuideKit.strings",
+      "sha256": "2449b6c24f1e65a460ce556aa0c1f5f65e817929337e1e2bec60b17543caa311"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/en.lproj/AnnotatedImage.nib",
+      "path": "reconstruction/Resources/App/en.lproj/AnnotatedImage.nib",
+      "sha256": "a05741186c9af67aa38da9cc1d5bea037f8c6dcb1468d8616fa0fa3a548fb5d2"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/en.lproj/FFmpegCommandTool.strings",
+      "path": "reconstruction/Resources/App/en.lproj/FFmpegCommandTool.strings",
+      "sha256": "9460eb2eb6b63e8fab8ce57cde011162013f1e5635ce57e4160c50865240f6fb"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/en.lproj/InfoPlist.strings",
+      "path": "reconstruction/Resources/App/en.lproj/InfoPlist.strings",
+      "sha256": "5003a0bf772ecb46fe07ca275b15cacfbe6d419474c2f8e21de16a67144ec30f"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/en.lproj/LCAppExpirationManager.strings",
+      "path": "reconstruction/Resources/App/en.lproj/LCAppExpirationManager.strings",
+      "sha256": "641384fd70d4712444369386012b1a83c1e24b012c4078b7ee9590aa393bd959"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/en.lproj/LCAppStoreUpdateKit.strings",
+      "path": "reconstruction/Resources/App/en.lproj/LCAppStoreUpdateKit.strings",
+      "sha256": "fc7f9f1a8218b7416dad244cad90e6a1fdc5944446215813a62fbd4164ddc0dc"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/en.lproj/LCAuthGuideKit.strings",
+      "path": "reconstruction/Resources/App/en.lproj/LCAuthGuideKit.strings",
+      "sha256": "6fc118a92bd22a38fec21385b0879dddb7b135d20f757a6514f5ed0c3e674076"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/en.lproj/Localizable.strings",
+      "path": "reconstruction/Resources/App/en.lproj/Localizable.strings",
+      "sha256": "ee930998faf14823066dcfdb0589c5d90ef0edd5c18634109bddfb1733688c0f"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/en.lproj/PinLibrary.strings",
+      "path": "reconstruction/Resources/App/en.lproj/PinLibrary.strings",
+      "sha256": "1144ef450d49dc7da4224fc991bb9bed37a7b7c8deea0871942dc3e00805d4c8"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/en.lproj/Preferences.strings",
+      "path": "reconstruction/Resources/App/en.lproj/Preferences.strings",
+      "sha256": "77f89b183bcdd379df0d46f825d2cc69f4f636afe8a51c3d33d883c4ead1d626"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/en.lproj/RecordAudio.strings",
+      "path": "reconstruction/Resources/App/en.lproj/RecordAudio.strings",
+      "sha256": "4bbf2bc1f8ba065c8bd52ca1538156a96512442799f165070f04af8e58c6ca80"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/en.lproj/SGVideoControlsViewController.strings",
+      "path": "reconstruction/Resources/App/en.lproj/SGVideoControlsViewController.strings",
+      "sha256": "82527b88a1e600160d837b22750205d1c88cc86a7bd65ae6cc1f952211f3f364"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/en.lproj/ScreenshotWithShell.strings",
+      "path": "reconstruction/Resources/App/en.lproj/ScreenshotWithShell.strings",
+      "sha256": "ba06fb6859f9727854a2f4e144bfdda79e71e1cc44d7d8f9c1b21e4adcc42b56"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/en.lproj/ShellWindow.strings",
+      "path": "reconstruction/Resources/App/en.lproj/ShellWindow.strings",
+      "sha256": "153facc43f4b9fb66da8dbca101269dd8ff80ffea78f2fd7880e05be9186f329"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/es.lproj/LCAppExpirationManager.strings",
+      "path": "reconstruction/Resources/App/es.lproj/LCAppExpirationManager.strings",
+      "sha256": "2931d7aa6cc3a7035ff313c3c672749b1d514df3f6c20e7fcfdd0c321280d437"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/es.lproj/LCAppStoreUpdateKit.strings",
+      "path": "reconstruction/Resources/App/es.lproj/LCAppStoreUpdateKit.strings",
+      "sha256": "e6642511dac13b87f73b66ec8260bb1465f7d87eb855db4f06b738ee3434e8b4"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/es.lproj/LCAuthGuideKit.strings",
+      "path": "reconstruction/Resources/App/es.lproj/LCAuthGuideKit.strings",
+      "sha256": "30a7123608d7d5c4a3ec565de57ca37cacd09923d2c36c047adf824d8a9ed3c9"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/fr.lproj/LCAppExpirationManager.strings",
+      "path": "reconstruction/Resources/App/fr.lproj/LCAppExpirationManager.strings",
+      "sha256": "32adfa55aeb16066b30c42e05f4165d4ed90774cc51903c99af46ea73fd75457"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/fr.lproj/LCAppStoreUpdateKit.strings",
+      "path": "reconstruction/Resources/App/fr.lproj/LCAppStoreUpdateKit.strings",
+      "sha256": "f5c0c895b3b47a8c0250eec7c12a0e3bf920fad89a5d60e962b91d3a9cfe18cd"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/fr.lproj/LCAuthGuideKit.strings",
+      "path": "reconstruction/Resources/App/fr.lproj/LCAuthGuideKit.strings",
+      "sha256": "eb81cd5209a9cf07446dcdda2b93e118c63757f41a499da28a2b1bbf680f2a69"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/handDrag@2x.png",
+      "path": "reconstruction/Resources/App/handDrag@2x.png",
+      "sha256": "49f70140a8ee1c2d406033581591f57886c54a7a7ab26d5bab58fa23a8e02ad6"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/ja.lproj/LCAppExpirationManager.strings",
+      "path": "reconstruction/Resources/App/ja.lproj/LCAppExpirationManager.strings",
+      "sha256": "bfebf91eba358415ff571796678d3011b52b111ce64475c60dd3bb22c1941fd2"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/ja.lproj/LCAppStoreUpdateKit.strings",
+      "path": "reconstruction/Resources/App/ja.lproj/LCAppStoreUpdateKit.strings",
+      "sha256": "e117cd63921e7089b8f3c9bee08f48d6bb69864452a39e1c5a6ce1e1dbc4a1cb"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/ja.lproj/LCAuthGuideKit.strings",
+      "path": "reconstruction/Resources/App/ja.lproj/LCAuthGuideKit.strings",
+      "sha256": "a30e33b6d5545448b264561c16005e08e07ef8cce555057934c04ca0d98c2c09"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/ko.lproj/LCAppExpirationManager.strings",
+      "path": "reconstruction/Resources/App/ko.lproj/LCAppExpirationManager.strings",
+      "sha256": "4dbf485e1c27e1fee3f52d3bad9b7de3d4529077530a5dd51d0c1b1ab39bb266"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/ko.lproj/LCAppStoreUpdateKit.strings",
+      "path": "reconstruction/Resources/App/ko.lproj/LCAppStoreUpdateKit.strings",
+      "sha256": "9e574e41544be16a79016e98ce5247beb0cf50ae6f135bb3222b7e19a7ea06a3"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/ko.lproj/LCAuthGuideKit.strings",
+      "path": "reconstruction/Resources/App/ko.lproj/LCAuthGuideKit.strings",
+      "sha256": "ac0c06ccceb5dc837c2baaad11b0e16586b837ebbb50ac493d9dba471b36f049"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/pt-PT.lproj/LCAuthGuideKit.strings",
+      "path": "reconstruction/Resources/App/pt-PT.lproj/LCAuthGuideKit.strings",
+      "sha256": "7df765e9aa095ceff7f56c10de0f27edbdd3d1067c5513031093c87789383a03"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/pt.lproj/LCAppExpirationManager.strings",
+      "path": "reconstruction/Resources/App/pt.lproj/LCAppExpirationManager.strings",
+      "sha256": "1101fc5b904c2e41fad9a842ad97e6830d2fe046dddabebe75540b8340acc8e7"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/pt.lproj/LCAppStoreUpdateKit.strings",
+      "path": "reconstruction/Resources/App/pt.lproj/LCAppStoreUpdateKit.strings",
+      "sha256": "86151b69e3bae582bed0e9dca383d00c3dbf359f9e827d5593c08cea95a15023"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/search_finder@2x.png",
+      "path": "reconstruction/Resources/App/search_finder@2x.png",
+      "sha256": "9efd8bea95d86af42e73224b088323d013f2570d8afecbd6488ce1897405812f"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/zh-Hans.lproj/AnnotatedImage.nib",
+      "path": "reconstruction/Resources/App/zh-Hans.lproj/AnnotatedImage.nib",
+      "sha256": "29072c2e0ece3e5bd3cedc58e69a0eee636856131c86556d360d1dc4cdda1f2f"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/zh-Hans.lproj/FFmpegCommandTool.strings",
+      "path": "reconstruction/Resources/App/zh-Hans.lproj/FFmpegCommandTool.strings",
+      "sha256": "379c51836251071c3c9dbb0fd9ee1ac8b1e78d3d4825d954369ce38168e4a195"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/zh-Hans.lproj/InfoPlist.strings",
+      "path": "reconstruction/Resources/App/zh-Hans.lproj/InfoPlist.strings",
+      "sha256": "223bba76e270a871888a8ecfa47c2e332da860761e50a0de558943d1405ef09c"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/zh-Hans.lproj/KeyEventSettingPopoverView.strings",
+      "path": "reconstruction/Resources/App/zh-Hans.lproj/KeyEventSettingPopoverView.strings",
+      "sha256": "c6828a807a15133e4871c0a2b26d88b9c4f7a37fab20009be6fe0d5331970a35"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/zh-Hans.lproj/LCAppExpirationManager.strings",
+      "path": "reconstruction/Resources/App/zh-Hans.lproj/LCAppExpirationManager.strings",
+      "sha256": "66cdf79ddea113ac1202f4269dad36f9da69f2fe9604c104cdca877dd1eac5b4"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/zh-Hans.lproj/LCAppStoreUpdateKit.strings",
+      "path": "reconstruction/Resources/App/zh-Hans.lproj/LCAppStoreUpdateKit.strings",
+      "sha256": "60980c10759f206e3ab8f4c69ec677e565f86ef7f671376619d1148716d68535"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/zh-Hans.lproj/LCAuthGuideKit.strings",
+      "path": "reconstruction/Resources/App/zh-Hans.lproj/LCAuthGuideKit.strings",
+      "sha256": "1fdbdfa4d5cb8bce7563a134e09f0f09332e0f14bddfb07b5edb953f057b3011"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/zh-Hans.lproj/Localizable.strings",
+      "path": "reconstruction/Resources/App/zh-Hans.lproj/Localizable.strings",
+      "sha256": "e316a3fd22942a6ad4c3db9e17e862c0d131bfb608e877bd3d41707cf4159dd8"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/zh-Hans.lproj/PinLibrary.strings",
+      "path": "reconstruction/Resources/App/zh-Hans.lproj/PinLibrary.strings",
+      "sha256": "ee00b8861b600bb94a531749822cf02fab9bc754ec6671ab06317e0afc325e22"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/zh-Hans.lproj/Preferences.strings",
+      "path": "reconstruction/Resources/App/zh-Hans.lproj/Preferences.strings",
+      "sha256": "104456a4b066837506ad90ef22f3ea67b57223358ec8d47891aa0b2e3992c656"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/zh-Hans.lproj/RecordAudio.strings",
+      "path": "reconstruction/Resources/App/zh-Hans.lproj/RecordAudio.strings",
+      "sha256": "3f8d81d212e95fd52a3bbf3a9a0b83409d49bcecfbca3a00faa9209de3c08b56"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/zh-Hans.lproj/SGVideoControlsViewController.strings",
+      "path": "reconstruction/Resources/App/zh-Hans.lproj/SGVideoControlsViewController.strings",
+      "sha256": "71fd1251329b8e9995b0d46aae89b2713f0d35e1058090ad270116dec3e2cb89"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/zh-Hans.lproj/ScreenshotWithShell.strings",
+      "path": "reconstruction/Resources/App/zh-Hans.lproj/ScreenshotWithShell.strings",
+      "sha256": "d3d3958f73851ce5f5b8436a4205ad7fa81d2d3f67bc91c0efab97533243d798"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/zh-Hans.lproj/ShellWindow.strings",
+      "path": "reconstruction/Resources/App/zh-Hans.lproj/ShellWindow.strings",
+      "sha256": "64a25b919ca4e46ddb484a5a94bbe0a22168f34a4bcb2bf8247689bb83285ee6"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/zh-Hant.lproj/LCAppExpirationManager.strings",
+      "path": "reconstruction/Resources/App/zh-Hant.lproj/LCAppExpirationManager.strings",
+      "sha256": "6972ebff8ed697d3b7cb249e50c7e7a9f27a1884c23a7c7026d2ffb61ffc9f4e"
+    },
+    {
+      "source": "recovery/resources/Contents/Resources/zh-Hant.lproj/LCAppStoreUpdateKit.strings",
+      "path": "reconstruction/Resources/App/zh-Hant.lproj/LCAppStoreUpdateKit.strings",
+      "sha256": "2bd707b7a4b74956dd68cbba904c24a948f006ef6e8aff26f702edb439add515"
+    },
+    {
+      "source": "recovery/resources/Contents/Library/LoginItems/iShotHelper.app/Contents/Resources/Assets.car",
+      "path": "reconstruction/Resources/Helper/Assets.car",
+      "sha256": "9eae887297712c5604cac67ab8e4f26ca34fcea7125abd6af7fe2f15d28e7369"
+    },
+    {
+      "source": "recovery/resources/Contents/Library/LoginItems/iShotHelper.app/Contents/Resources/Base.lproj/MainMenu.nib",
+      "path": "reconstruction/Resources/Helper/Base.lproj/MainMenu.nib",
+      "sha256": "15c6681d08388c0c5c003c2b4b8aee95cac1ced5e3b35fb576f75317b6f281e6"
+    },
+    {
+      "source": "recovery/resources/Contents/Library/LoginItems/iShotHelper.app/Contents/Resources/screenshot.aif",
+      "path": "reconstruction/Resources/Helper/screenshot.aif",
+      "sha256": "75ad70232a4d8c64efa427a157b9fce9f3ab2984f4897b63b18b7349e4b33d0f"
+    },
+    {
+      "source": "recovery/resources/Contents/Library/LoginItems/iShotHelper.app/Contents/Resources/zh-Hans.lproj/Localizable.strings",
+      "path": "reconstruction/Resources/Helper/zh-Hans.lproj/Localizable.strings",
+      "sha256": "7fc210db93706e3cc07f47cbedf028f12c1584f7ff3828b900df868455317998"
+    },
+    {
+      "source": "recovery/resources/Contents/Library/LoginItems/iShotHelper.app/Contents/Resources/zh-Hans.lproj/MainMenu.strings",
+      "path": "reconstruction/Resources/Helper/zh-Hans.lproj/MainMenu.strings",
+      "sha256": "94e23318c135c2db69a78410071ca9c2c7888f4ba142371e19cb69072a51ddc7"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/Info.plist",
+      "path": "reconstruction/Resources/ShortcutRecorder/Info.plist",
+      "sha256": "66672cbef27de9d0ed24fa72967f29222eae8f9e98b8e65460bb8bb2d4d88b1a"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/LICENSE.txt",
+      "path": "reconstruction/Resources/ShortcutRecorder/LICENSE.txt",
+      "sha256": "7d9309680c5393c11bf50de606daaff01c6c19c42dadfa9ee66d4c359d06dd6b"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/ca.lproj/ShortcutRecorder.strings",
+      "path": "reconstruction/Resources/ShortcutRecorder/ca.lproj/ShortcutRecorder.strings",
+      "sha256": "8d3c89e545a58dba27383047254a8a78ff1b398f09876ddaa2fe0089a51c5628"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/cs.lproj/ShortcutRecorder.strings",
+      "path": "reconstruction/Resources/ShortcutRecorder/cs.lproj/ShortcutRecorder.strings",
+      "sha256": "c69f44d539a9eeae7d52318831442e492b84badf2f5ff8979a107b36c0cc76db"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/de.lproj/ShortcutRecorder.strings",
+      "path": "reconstruction/Resources/ShortcutRecorder/de.lproj/ShortcutRecorder.strings",
+      "sha256": "763dc3435a28cc63f658f75c11f2915e9a8e724a6f592264bb889835abd03d70"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/el.lproj/ShortcutRecorder.strings",
+      "path": "reconstruction/Resources/ShortcutRecorder/el.lproj/ShortcutRecorder.strings",
+      "sha256": "c59dd7cd800585d313779a4bf6e7616400ef7882d3a1a8087448952537c1c6c8"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/en.lproj/ShortcutRecorder.strings",
+      "path": "reconstruction/Resources/ShortcutRecorder/en.lproj/ShortcutRecorder.strings",
+      "sha256": "3fb8c4dc2cdb448082e26744d90e51aa4a377a0dd9fb7adc1769d13298014f47"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/es-MX.lproj/ShortcutRecorder.strings",
+      "path": "reconstruction/Resources/ShortcutRecorder/es-MX.lproj/ShortcutRecorder.strings",
+      "sha256": "a9f9feba8f4cd734d49508d7f93157c1518bae9d3f8d13b190f9f15274ec6364"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/es.lproj/ShortcutRecorder.strings",
+      "path": "reconstruction/Resources/ShortcutRecorder/es.lproj/ShortcutRecorder.strings",
+      "sha256": "bca6804ee4cd8660739ca0d69814e36818d0c44aa00c7e0303f38c576ddb9147"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/fr.lproj/ShortcutRecorder.strings",
+      "path": "reconstruction/Resources/ShortcutRecorder/fr.lproj/ShortcutRecorder.strings",
+      "sha256": "1bd7a83f7a9dc3466512b135fd59374b9b1ea051f79e5efb3fda80a079e85f71"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/it.lproj/ShortcutRecorder.strings",
+      "path": "reconstruction/Resources/ShortcutRecorder/it.lproj/ShortcutRecorder.strings",
+      "sha256": "8c7d55d8f2b6f823973b7a64003ea4a45a5eee81be7c2a6d3e7c9d005cee2bd8"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/ja.lproj/ShortcutRecorder.strings",
+      "path": "reconstruction/Resources/ShortcutRecorder/ja.lproj/ShortcutRecorder.strings",
+      "sha256": "273e6e5a8fa11ea8f3de625020d071f4d10d2d505a3c0f8b04bf356d6f50f969"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/ko.lproj/ShortcutRecorder.strings",
+      "path": "reconstruction/Resources/ShortcutRecorder/ko.lproj/ShortcutRecorder.strings",
+      "sha256": "da9ba5d1f56e0e45b40abae0b7bd8e7b6b8231a366d8d9a310770ed4d36d0244"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/nb.lproj/ShortcutRecorder.strings",
+      "path": "reconstruction/Resources/ShortcutRecorder/nb.lproj/ShortcutRecorder.strings",
+      "sha256": "39bb65bc0fbb7c298056afc0e33d306a45b90deca64f676765f84b4e89c2cf13"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/nl.lproj/ShortcutRecorder.strings",
+      "path": "reconstruction/Resources/ShortcutRecorder/nl.lproj/ShortcutRecorder.strings",
+      "sha256": "ec9dc877542775db02e7ec6f61983bb344ce8a9a1308b50b97c63aa9ee3f894f"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/pl.lproj/ShortcutRecorder.strings",
+      "path": "reconstruction/Resources/ShortcutRecorder/pl.lproj/ShortcutRecorder.strings",
+      "sha256": "d503b8579cc8b1d62dc9055b9122abc3dcca82ec6ab70044f6efebd1ac1e554f"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/pt-BR.lproj/ShortcutRecorder.strings",
+      "path": "reconstruction/Resources/ShortcutRecorder/pt-BR.lproj/ShortcutRecorder.strings",
+      "sha256": "d91531a09056a99fc683ede1447107b3842d8da298a7f67c0169cb706b186d81"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/pt.lproj/ShortcutRecorder.strings",
+      "path": "reconstruction/Resources/ShortcutRecorder/pt.lproj/ShortcutRecorder.strings",
+      "sha256": "6f3504372b22a7c21a1ab35c86f83b2b9ac9c04c64faf2b2a1a8f0f31ff7e67c"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/ro.lproj/ShortcutRecorder.strings",
+      "path": "reconstruction/Resources/ShortcutRecorder/ro.lproj/ShortcutRecorder.strings",
+      "sha256": "bf48e9e0fb92e96f0360df526f12e17e716f186cf34337788a0836135164f306"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/ru.lproj/ShortcutRecorder.strings",
+      "path": "reconstruction/Resources/ShortcutRecorder/ru.lproj/ShortcutRecorder.strings",
+      "sha256": "fc80b4edc5eb33df4495a2cdf907ee90d60702b16a9e4a87022fb020b82e954b"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/shortcut-recorder-bezel-blue-highlighted-left.tiff",
+      "path": "reconstruction/Resources/ShortcutRecorder/shortcut-recorder-bezel-blue-highlighted-left.tiff",
+      "sha256": "b97480d8f55e1a74e48bef2c6bfe526636d89e70a510ad3b69cd4ada2ea0124d"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/shortcut-recorder-bezel-blue-highlighted-middle.tiff",
+      "path": "reconstruction/Resources/ShortcutRecorder/shortcut-recorder-bezel-blue-highlighted-middle.tiff",
+      "sha256": "a34cae4585420d9e4ae2f11d849369243188a755619523c69ce224072ef93e27"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/shortcut-recorder-bezel-blue-highlighted-right.tiff",
+      "path": "reconstruction/Resources/ShortcutRecorder/shortcut-recorder-bezel-blue-highlighted-right.tiff",
+      "sha256": "b6c5f15189fc6573384fea5945c39db1cd2c293badac30b1d1d2d9aface2cc05"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/shortcut-recorder-bezel-disabled-left.tiff",
+      "path": "reconstruction/Resources/ShortcutRecorder/shortcut-recorder-bezel-disabled-left.tiff",
+      "sha256": "862380e51ca1b42e4da9d43becc6cde030b172835b4c2bc8500a9149ddd2d6b0"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/shortcut-recorder-bezel-disabled-middle.tiff",
+      "path": "reconstruction/Resources/ShortcutRecorder/shortcut-recorder-bezel-disabled-middle.tiff",
+      "sha256": "68b4a4c471bf4c1fe0822d37d8805e9ed2fc9024ec4468db695d5590a6d6dfd8"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/shortcut-recorder-bezel-disabled-right.tiff",
+      "path": "reconstruction/Resources/ShortcutRecorder/shortcut-recorder-bezel-disabled-right.tiff",
+      "sha256": "238570e7fd33b965e12b295f0736b4c8e0356d50e2782f149c06637f95a69f86"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/shortcut-recorder-bezel-editing-left.tiff",
+      "path": "reconstruction/Resources/ShortcutRecorder/shortcut-recorder-bezel-editing-left.tiff",
+      "sha256": "62877aef709b244eeb9ebce01421f3dba9d83e55bad6653ddcf0a4c3b83128e4"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/shortcut-recorder-bezel-editing-middle.tiff",
+      "path": "reconstruction/Resources/ShortcutRecorder/shortcut-recorder-bezel-editing-middle.tiff",
+      "sha256": "a324205a9809a35f9a3f42d83419956fb92aaf0f18a3a244e42d6d078205d8e3"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/shortcut-recorder-bezel-editing-right.tiff",
+      "path": "reconstruction/Resources/ShortcutRecorder/shortcut-recorder-bezel-editing-right.tiff",
+      "sha256": "09ce01fc7e55569342cac26427c8ce0f6b2519a0eae0933bd3c69e63da31bfe7"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/shortcut-recorder-bezel-graphite-highlighted-left.tiff",
+      "path": "reconstruction/Resources/ShortcutRecorder/shortcut-recorder-bezel-graphite-highlighted-left.tiff",
+      "sha256": "e519ce3d2838c6adc2b855a2940ff7f804f2bc57ef6f26ff0e1a8293175b521c"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/shortcut-recorder-bezel-graphite-highlighted-middle.tiff",
+      "path": "reconstruction/Resources/ShortcutRecorder/shortcut-recorder-bezel-graphite-highlighted-middle.tiff",
+      "sha256": "16292acab47fac6ee1ba128440469265c61bb20b87568934cbc6f3a8aaef9b12"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/shortcut-recorder-bezel-graphite-highlighted-right.tiff",
+      "path": "reconstruction/Resources/ShortcutRecorder/shortcut-recorder-bezel-graphite-highlighted-right.tiff",
+      "sha256": "243899bd95ff801cb40a356599a838f93728aafe2f4fe697f42c83d4c82a49cc"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/shortcut-recorder-bezel-left.tiff",
+      "path": "reconstruction/Resources/ShortcutRecorder/shortcut-recorder-bezel-left.tiff",
+      "sha256": "116d85eb99b3375e7aaedeb214af4b181bc864f3c0ee2ccd0b06ba5cd0cf0c50"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/shortcut-recorder-bezel-middle.tiff",
+      "path": "reconstruction/Resources/ShortcutRecorder/shortcut-recorder-bezel-middle.tiff",
+      "sha256": "02e1e2e422bc14806b81220319dbc9ebcbabb17b378ee75f9d5d1640879def3b"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/shortcut-recorder-bezel-right.tiff",
+      "path": "reconstruction/Resources/ShortcutRecorder/shortcut-recorder-bezel-right.tiff",
+      "sha256": "70e47130803fa022e5640142d612f2b196c582e62566c364c6e1d870a2fd957c"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/shortcut-recorder-clear-highlighted.tiff",
+      "path": "reconstruction/Resources/ShortcutRecorder/shortcut-recorder-clear-highlighted.tiff",
+      "sha256": "c2ec54bded7b15d8c3ef8de200b25b61a6e6b8deda68f45a8140de39dcfac1a9"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/shortcut-recorder-clear.tiff",
+      "path": "reconstruction/Resources/ShortcutRecorder/shortcut-recorder-clear.tiff",
+      "sha256": "4780c7800713b02e030aa7642eb937cbec4ac44a6f922d0340ef302533606d92"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/shortcut-recorder-snapback-highlighted.tiff",
+      "path": "reconstruction/Resources/ShortcutRecorder/shortcut-recorder-snapback-highlighted.tiff",
+      "sha256": "06685b96b6103db659ac32e6e38f8eddb8e4753dd270f95dafd889deee926c89"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/shortcut-recorder-snapback.tiff",
+      "path": "reconstruction/Resources/ShortcutRecorder/shortcut-recorder-snapback.tiff",
+      "sha256": "f2036330d162f038b79f5384b1f584460e82e50d354fc34ff634e72f8077ae84"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/shortcut-recorder-yosemite-bezel-blue-highlighted-left.tiff",
+      "path": "reconstruction/Resources/ShortcutRecorder/shortcut-recorder-yosemite-bezel-blue-highlighted-left.tiff",
+      "sha256": "a799d05424703487eb277fea9bff99a4c1dc79c83a1691465296c1937c4f9703"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/shortcut-recorder-yosemite-bezel-blue-highlighted-middle.tiff",
+      "path": "reconstruction/Resources/ShortcutRecorder/shortcut-recorder-yosemite-bezel-blue-highlighted-middle.tiff",
+      "sha256": "233d024a26e3f4adbaaa5a85fe1a67ba6b453751bf649e051e228dbb4532799c"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/shortcut-recorder-yosemite-bezel-blue-highlighted-right.tiff",
+      "path": "reconstruction/Resources/ShortcutRecorder/shortcut-recorder-yosemite-bezel-blue-highlighted-right.tiff",
+      "sha256": "dc026f2d7a4a4912392837da4c6cfab2a52416143af42e572d09c07c6855612a"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/shortcut-recorder-yosemite-bezel-disabled-left.tiff",
+      "path": "reconstruction/Resources/ShortcutRecorder/shortcut-recorder-yosemite-bezel-disabled-left.tiff",
+      "sha256": "3b6f122071f970c174d94ae80ac8ca1166fb3abd3419ea6f1e4848c6e335d9df"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/shortcut-recorder-yosemite-bezel-disabled-middle.tiff",
+      "path": "reconstruction/Resources/ShortcutRecorder/shortcut-recorder-yosemite-bezel-disabled-middle.tiff",
+      "sha256": "d87bdcfea61a97f961129c17c9f12c9387465624648229d44f654e44dc032851"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/shortcut-recorder-yosemite-bezel-disabled-right.tiff",
+      "path": "reconstruction/Resources/ShortcutRecorder/shortcut-recorder-yosemite-bezel-disabled-right.tiff",
+      "sha256": "42e5d2024902b4c24926d42efc1bea581538efcb996ffebd98321ae5fd990239"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/shortcut-recorder-yosemite-bezel-editing-left.tiff",
+      "path": "reconstruction/Resources/ShortcutRecorder/shortcut-recorder-yosemite-bezel-editing-left.tiff",
+      "sha256": "c6dc89566366353e3682df2ff9c4ec463447f5f27c93d9a7cf1ed3e3c7013f68"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/shortcut-recorder-yosemite-bezel-editing-middle.tiff",
+      "path": "reconstruction/Resources/ShortcutRecorder/shortcut-recorder-yosemite-bezel-editing-middle.tiff",
+      "sha256": "af92702eadbf82674369e1590caca50f8a72ecd8fc3d727d55f05458561fb271"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/shortcut-recorder-yosemite-bezel-editing-right.tiff",
+      "path": "reconstruction/Resources/ShortcutRecorder/shortcut-recorder-yosemite-bezel-editing-right.tiff",
+      "sha256": "f80836ab5ed7c90364b90ef14c94f0455f6d991cc736b503faab6b0483f734a0"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/shortcut-recorder-yosemite-bezel-graphite-highlighted-left.tiff",
+      "path": "reconstruction/Resources/ShortcutRecorder/shortcut-recorder-yosemite-bezel-graphite-highlighted-left.tiff",
+      "sha256": "b4a9d605d46f1fa07425e6cdf858979c7ae81ca8f566cb4c7610cb813f300bca"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/shortcut-recorder-yosemite-bezel-graphite-highlighted-middle.tiff",
+      "path": "reconstruction/Resources/ShortcutRecorder/shortcut-recorder-yosemite-bezel-graphite-highlighted-middle.tiff",
+      "sha256": "4d96671650177833df7c640356f99f6d2e3f2a40a555b413752a7cc527c20d9d"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/shortcut-recorder-yosemite-bezel-graphite-highlighted-right.tiff",
+      "path": "reconstruction/Resources/ShortcutRecorder/shortcut-recorder-yosemite-bezel-graphite-highlighted-right.tiff",
+      "sha256": "6262cdb94f43de78b5d6620a98901ad3837470a5308f531b464fab982bc0a531"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/shortcut-recorder-yosemite-bezel-left.tiff",
+      "path": "reconstruction/Resources/ShortcutRecorder/shortcut-recorder-yosemite-bezel-left.tiff",
+      "sha256": "f956fe6509be25af0c449b96cc2da4b08436ec9250c122a6f7686ad12bef4b80"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/shortcut-recorder-yosemite-bezel-middle.tiff",
+      "path": "reconstruction/Resources/ShortcutRecorder/shortcut-recorder-yosemite-bezel-middle.tiff",
+      "sha256": "ff9f9aeac0c8c00377327927b9f941852e79a9d7c043160e9e523d5b29d36419"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/shortcut-recorder-yosemite-bezel-right.tiff",
+      "path": "reconstruction/Resources/ShortcutRecorder/shortcut-recorder-yosemite-bezel-right.tiff",
+      "sha256": "d1dc1e7e8644eb3ce7b2909cfc95e72c0171bab71a9de4695eb5a2cf0e2e6fe2"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/shortcut-recorder-yosemite-clear-highlighted.tiff",
+      "path": "reconstruction/Resources/ShortcutRecorder/shortcut-recorder-yosemite-clear-highlighted.tiff",
+      "sha256": "0810052cca6bbd4724c960f5f60ec8557324c46a68f3f259fce61ba4ad8190d2"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/shortcut-recorder-yosemite-clear.tiff",
+      "path": "reconstruction/Resources/ShortcutRecorder/shortcut-recorder-yosemite-clear.tiff",
+      "sha256": "2b33bd444d54446816c1be8b895ccbec9c7bfc9e728e6a1f7837aedcf186301e"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/shortcut-recorder-yosemite-snapback-highlighted.tiff",
+      "path": "reconstruction/Resources/ShortcutRecorder/shortcut-recorder-yosemite-snapback-highlighted.tiff",
+      "sha256": "423da026e8faf847b4e864e38116ff6ad4dcea7bb55d14e1a1c7528b0de2586e"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/shortcut-recorder-yosemite-snapback.tiff",
+      "path": "reconstruction/Resources/ShortcutRecorder/shortcut-recorder-yosemite-snapback.tiff",
+      "sha256": "e57dbca5bba1e89720a37eb7420e7e4194b1570b24b61edb3bfcd03038fae0ca"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/sk.lproj/ShortcutRecorder.strings",
+      "path": "reconstruction/Resources/ShortcutRecorder/sk.lproj/ShortcutRecorder.strings",
+      "sha256": "f4a845179f53c51065846484a8f125afac7d4d1228df8ecda781b15e3701c860"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/sv.lproj/ShortcutRecorder.strings",
+      "path": "reconstruction/Resources/ShortcutRecorder/sv.lproj/ShortcutRecorder.strings",
+      "sha256": "e2b2c657aed51f366bbf204ac880ebe216f77083b10743653c8b55be6b97d29a"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/th.lproj/ShortcutRecorder.strings",
+      "path": "reconstruction/Resources/ShortcutRecorder/th.lproj/ShortcutRecorder.strings",
+      "sha256": "72b7d9f6ea3ab5adf02a7f36b2104503eee376a24469438f111c3c05cf5e2b31"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/zh-Hans.lproj/ShortcutRecorder.strings",
+      "path": "reconstruction/Resources/ShortcutRecorder/zh-Hans.lproj/ShortcutRecorder.strings",
+      "sha256": "ba7302041b577247180246c53f6352a0f105a46dece3d88f2645c88e31fc3633"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/ShortcutRecorder.framework/Versions/A/Resources/zh-Hant.lproj/ShortcutRecorder.strings",
+      "path": "reconstruction/Resources/ShortcutRecorder/zh-Hant.lproj/ShortcutRecorder.strings",
+      "sha256": "b7baf8e3bdfeb34219e07df073379cfafa6bf11d5caceb76f5b452a0cc303f2f"
+    },
+    {
+      "source": "recovery/metadata/bundle-plists/Contents/Info.plist",
+      "path": "reconstruction/Configuration/App-Info.plist",
+      "sha256": "6b9ca01c83097d94aaf408c2bf80dd638c9c6d1bf4e3f86c6d98d7a5e93cd592"
+    },
+    {
+      "source": "recovery/metadata/bundle-plists/Contents/Library/LoginItems/iShotHelper.app/Contents/Info.plist",
+      "path": "reconstruction/Configuration/Helper-Info.plist",
+      "sha256": "2788c7b4e2c5019400f30746d565230d22b74cb7750271bd832ad562d07a7c89"
+    },
+    {
+      "source": "recovery/resources/Contents/Frameworks/PTHotKey.framework/Versions/A/Resources/Info.plist",
+      "path": "reconstruction/Configuration/PTHotKey-Info.plist",
+      "sha256": "4bed6f7532dbc6c246fe60a5ddd20ce562ea7a88842cc390e9e85aff1dd629bd"
+    }
+  ]
+}

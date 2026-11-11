@@ -1,0 +1,24 @@
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "IQX-0D-Ut1"; */
+"IQX-0D-Ut1.title" = "Item 2";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "KgP-8n-Bc8"; */
+"KgP-8n-Bc8.title" = "Item 3";
+
+/* Class = "NSTextFieldCell"; title = "00:00:00"; ObjectID = "LLw-Mh-kuf"; */
+"LLw-Mh-kuf.title" = "00:00:00";
+
+/* Class = "NSWindow"; title = "Audio Recording Setting"; ObjectID = "XEa-7r-Uaf"; */
+"XEa-7r-Uaf.title" = "Audio Recording Setting";
+
+/* Class = "NSButtonCell"; title = "Record System Audio"; ObjectID = "uhf-Fi-q3l"; */
+"uhf-Fi-q3l.title" = "iShot驱动录制系统声音";
+
+/* Class = "NSMenuItem"; title = "Item 1"; ObjectID = "xgU-q1-bag"; */
+"xgU-q1-bag.title" = "Item 1";
+
+/* Class = "NSTextFieldCell"; title = "Time Left:"; ObjectID = "sbb-Or-ovj"; */
+"sbb-Or-ovj.title" = "剩余时间:";
+
+/* Class = "NSTextFieldCell"; title = "MP3 Transcode"; ObjectID = "gAC-if-1tb"; */
+"gAC-if-1tb.title" = "MP3转码";

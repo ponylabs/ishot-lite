@@ -1,0 +1,42 @@
+
+/* Class = "NSMenuItem"; title = "Video Conversion"; ObjectID = "1CY-Vr-Eai"; */
+"1CY-Vr-Eai.title" = "视频转换";
+
+/* Class = "NSMenuItem"; title = "Start/Stop Record Screen"; ObjectID = "20C-5W-c0i"; */
+"20C-5W-c0i.title" = "开始/停止录屏";
+
+/* Class = "NSMenuItem"; title = "Screenshot"; ObjectID = "2RZ-jt-95o"; */
+"2RZ-jt-95o.title" = "截图";
+
+/* Class = "NSMenuItem"; title = "Preferences"; ObjectID = "72X-mQ-hqB"; */
+"72X-mQ-hqB.title" = "偏好设置";
+
+/* Class = "NSMenuItem"; title = "Video Playback"; ObjectID = "Eby-ES-xRO"; */
+"Eby-ES-xRO.title" = "视频播放";
+
+/* Class = "NSMenuItem"; title = "More Apps"; ObjectID = "HD1-JU-7yj"; */
+"HD1-JU-7yj.title" = "更多Apps";
+
+/* Class = "NSMenuItem"; title = "Check for Update"; ObjectID = "IHX-08-dVP"; */
+"IHX-08-dVP.title" = "检查升级";
+
+/* Class = "NSMenuItem"; title = "Start Record Audio"; ObjectID = "Sux-gT-ndb"; */
+"Sux-gT-ndb.title" = "开始录音";
+
+/* Class = "NSMenuItem"; title = "Delay Screenshot"; ObjectID = "aTk-ny-HPT"; */
+"aTk-ny-HPT.title" = "延时全屏截图";
+
+/* Class = "NSMenuItem"; title = "Quit"; ObjectID = "abd-rk-1AO"; */
+"abd-rk-1AO.title" = "退出";
+
+/* Class = "NSMenuItem"; title = "Pin From Pasteboard"; ObjectID = "akV-JW-XcC"; */
+"akV-JW-XcC.title" = "从剪切板贴图";
+
+/* Class = "NSMenuItem"; title = "Screenshot with Shell "; ObjectID = "joc-WG-qqZ"; */
+"joc-WG-qqZ.title" = "带壳截图";
+
+/* Class = "NSMenuItem"; title = "Feedback Problem"; ObjectID = "tzt-gD-0dm"; */
+"tzt-gD-0dm.title" = "用户支持";
+
+/* Class = "NSMenuItem"; title = "Open the Last Saved Directory"; ObjectID = "xyA-eQ-q2e"; */
+"xyA-eQ-q2e.title" = "打开最后保存目录";

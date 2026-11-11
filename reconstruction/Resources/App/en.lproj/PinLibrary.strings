@@ -1,0 +1,27 @@
+
+/* Class = "NSMenuItem"; title = "100"; ObjectID = "4Wj-2M-FOo"; */
+"4Wj-2M-FOo.title" = "100";
+
+/* Class = "NSMenuItem"; title = "50"; ObjectID = "9QB-aF-dSF"; */
+"9QB-aF-dSF.title" = "50";
+
+/* Class = "NSButtonCell"; title = "Empty"; ObjectID = "Gfi-Vo-sRM"; */
+"Gfi-Vo-sRM.title" = "Empty";
+
+/* Class = "NSWindow"; title = "Pin Library"; ObjectID = "fFq-XQ-FWb"; */
+"fFq-XQ-FWb.title" = "Pin Library";
+
+/* Class = "NSTextFieldCell"; title = "Number of Pictures in the Library"; ObjectID = "j9W-DY-zFB"; */
+"j9W-DY-zFB.title" = "Number of Pictures in the Library";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "kJP-CY-Mgl"; */
+"kJP-CY-Mgl.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Max"; ObjectID = "p98-b0-PD3"; */
+"p98-b0-PD3.title" = "Max";
+
+/* Class = "NSMenuItem"; title = "30"; ObjectID = "uku-wg-IwK"; */
+"uku-wg-IwK.title" = "30";
+
+/* Class = "NSMenuItem"; title = "10"; ObjectID = "ziR-mD-lgG"; */
+"ziR-mD-lgG.title" = "10";

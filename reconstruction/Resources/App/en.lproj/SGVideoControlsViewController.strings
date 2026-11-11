@@ -1,0 +1,138 @@
+
+/* Class = "NSMenuItem"; title = "45"; ObjectID = "0IK-Uz-HIF"; */
+"0IK-Uz-HIF.title" = "45";
+
+/* Class = "NSBox"; title = "Box"; ObjectID = "0al-8I-Ts0"; */
+"0al-8I-Ts0.title" = "Box";
+
+/* Class = "NSTextFieldCell"; title = "Resolution"; ObjectID = "1jN-i1-C96"; */
+"1jN-i1-C96.title" = "Resolution";
+
+/* Class = "NSMenuItem"; title = "60"; ObjectID = "2nf-vQ-HOD"; */
+"2nf-vQ-HOD.title" = "60";
+
+/* Class = "NSTextFieldCell"; title = "Format"; ObjectID = "4Uc-gU-Ttv"; */
+"4Uc-gU-Ttv.title" = "Format";
+
+/* Class = "NSMenuItem"; title = "mp4"; ObjectID = "4hL-3N-Ibg"; */
+"4hL-3N-Ibg.title" = "mp4";
+
+/* Class = "NSMenuItem"; title = "3S"; ObjectID = "5Qx-fc-1Md"; */
+"5Qx-fc-1Md.title" = "3S";
+
+/* Class = "NSTextFieldCell"; title = "Start"; ObjectID = "61h-iF-VLj"; */
+"61h-iF-VLj.title" = "Start";
+
+/* Class = "NSMenuItem"; title = "15"; ObjectID = "76l-a8-czA"; */
+"76l-a8-czA.title" = "15";
+
+/* Class = "NSMenuItem"; title = "20"; ObjectID = "CRt-o3-ZXH"; */
+"CRt-o3-ZXH.title" = "20";
+
+/* Class = "NSMenuItem"; title = "20"; ObjectID = "DVd-5k-nv2"; */
+"DVd-5k-nv2.title" = "20";
+
+/* Class = "NSMenuItem"; title = "5S"; ObjectID = "Do7-zV-9Mv"; */
+"Do7-zV-9Mv.title" = "5S";
+
+/* Class = "NSMenuItem"; title = "35"; ObjectID = "ECT-9m-xdN"; */
+"ECT-9m-xdN.title" = "35";
+
+/* Class = "NSMenuItem"; title = "Medium Quality"; ObjectID = "H3Z-FR-fky"; */
+"H3Z-FR-fky.title" = "Medium Quality";
+
+/* Class = "NSTextFieldCell"; title = "100"; ObjectID = "L9Q-aw-9Vx"; */
+"L9Q-aw-9Vx.title" = "100";
+
+/* Class = "NSMenuItem"; title = "30"; ObjectID = "N6y-ZR-JjD"; */
+"N6y-ZR-JjD.title" = "30";
+
+/* Class = "NSTextFieldCell"; title = "Time End"; ObjectID = "RJG-rI-XSq"; */
+"RJG-rI-XSq.title" = "Time End";
+
+/* Class = "NSMenuItem"; title = "10S"; ObjectID = "S00-Vy-CX9"; */
+"S00-Vy-CX9.title" = "10S";
+
+/* Class = "NSMenuItem"; title = "15"; ObjectID = "UHd-vO-dFW"; */
+"UHd-vO-dFW.title" = "15";
+
+/* Class = "NSMenuItem"; title = "Item 3"; ObjectID = "Vb9-nR-88d"; */
+"Vb9-nR-88d.title" = "Item 3";
+
+/* Class = "NSMenu"; title = "OtherViews"; ObjectID = "W3u-2D-Hrg"; */
+"W3u-2D-Hrg.title" = "OtherViews";
+
+/* Class = "NSButtonCell"; title = "Show Mouse Click"; ObjectID = "Xm7-SE-qlI"; */
+"Xm7-SE-qlI.title" = "Show Mouse Click";
+
+/* Class = "NSMenuItem"; title = "Photo Quality"; ObjectID = "YGr-5E-0U9"; */
+"YGr-5E-0U9.title" = "Photo Quality";
+
+/* Class = "NSTextFieldCell"; title = "Frame Rate"; ObjectID = "YYL-jU-bHT"; */
+"YYL-jU-bHT.title" = "Frame Rate";
+
+/* Class = "NSMenuItem"; title = "55"; ObjectID = "YYy-Qy-fO9"; */
+"YYy-Qy-fO9.title" = "55";
+
+/* Class = "NSTextFieldCell"; title = "GIF Output Size Scale"; ObjectID = "aHs-Ad-f9d"; */
+"aHs-Ad-f9d.title" = "GIF Output Size Scale";
+
+/* Class = "NSButtonCell"; title = "Display keyboard event"; ObjectID = "b5n-y1-Tse"; */
+"b5n-y1-Tse.title" = "Display keyboard event";
+
+/* Class = "NSMenuItem"; title = "5"; ObjectID = "cRS-xk-MrA"; */
+"cRS-xk-MrA.title" = "5";
+
+/* Class = "NSMenuItem"; title = "5"; ObjectID = "cuX-yW-Ozo"; */
+"cuX-yW-Ozo.title" = "5";
+
+/* Class = "NSMenuItem"; title = "0S"; ObjectID = "dNs-SQ-X7Z"; */
+"dNs-SQ-X7Z.title" = "0S";
+
+/* Class = "NSMenuItem"; title = "50"; ObjectID = "e3M-z2-Bpe"; */
+"e3M-z2-Bpe.title" = "50";
+
+/* Class = "NSButtonCell"; title = "Show Cursor"; ObjectID = "gdn-SY-HYi"; */
+"gdn-SY-HYi.title" = "Show Cursor";
+
+/* Class = "NSTextFieldCell"; title = "%"; ObjectID = "geF-dO-AqJ"; */
+"geF-dO-AqJ.title" = "%";
+
+/* Class = "NSMenuItem"; title = "10"; ObjectID = "gpr-02-Xdg"; */
+"gpr-02-Xdg.title" = "10";
+
+/* Class = "NSTextFieldCell"; title = "Timer"; ObjectID = "h0X-SU-CbB"; */
+"h0X-SU-CbB.title" = "Timer";
+
+/* Class = "NSMenuItem"; title = "25"; ObjectID = "hio-Ge-dru"; */
+"hio-Ge-dru.title" = "25";
+
+/* Class = "NSTextFieldCell"; title = "min"; ObjectID = "jWQ-xS-MDE"; */
+"jWQ-xS-MDE.title" = "min";
+
+/* Class = "NSTextFieldCell"; title = "Microphone"; ObjectID = "jkM-6l-fL1"; */
+"jkM-6l-fL1.title" = "Microphone";
+
+/* Class = "NSTextFieldCell"; title = "Camera"; ObjectID = "m3q-yG-i1d"; */
+"m3q-yG-i1d.title" = "Camera";
+
+/* Class = "NSMenuItem"; title = "10"; ObjectID = "mIY-iq-D9k"; */
+"mIY-iq-D9k.title" = "10";
+
+/* Class = "NSMenuItem"; title = "None"; ObjectID = "p2b-Rb-5mb"; */
+"p2b-Rb-5mb.title" = "None";
+
+/* Class = "NSButtonCell"; title = "Record System Audio"; ObjectID = "qJL-Qa-3dd"; */
+"qJL-Qa-3dd.title" = "Record System Audio";
+
+/* Class = "NSMenuItem"; title = "gif"; ObjectID = "up8-CM-wfy"; */
+"up8-CM-wfy.title" = "gif";
+
+/* Class = "NSMenuItem"; title = "High  Quality"; ObjectID = "v2p-4s-jyO"; */
+"v2p-4s-jyO.title" = "High  Quality";
+
+/* Class = "NSMenuItem"; title = "40"; ObjectID = "vif-2g-uaD"; */
+"vif-2g-uaD.title" = "40";
+
+/* Class = "NSMenuItem"; title = "Item 2"; ObjectID = "xPq-qI-eVw"; */
+"xPq-qI-eVw.title" = "Item 2";

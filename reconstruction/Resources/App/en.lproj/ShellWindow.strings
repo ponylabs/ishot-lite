@@ -1,0 +1,9 @@
+
+/* Class = "NSWindow"; title = "PinShellWindow"; ObjectID = "C9y-AY-xxR"; */
+"C9y-AY-xxR.title" = "PinShellWindow";
+
+/* Class = "NSTextFieldCell"; title = "Label"; ObjectID = "TJ9-BG-HnT"; */
+"TJ9-BG-HnT.title" = "Label";
+
+/* Class = "NSButtonCell"; title = "Shot"; ObjectID = "kZ3-4w-sVX"; */
+"kZ3-4w-sVX.title" = "Shot";

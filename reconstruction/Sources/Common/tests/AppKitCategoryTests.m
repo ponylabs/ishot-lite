@@ -1,0 +1,6 @@
+#import "../AppKitCategories.h"
+int main(){@autoreleasepool{
+ [NSApplication sharedApplication];NSView *parent=[[NSView alloc]initWithFrame:NSMakeRect(0,0,200,100)];parent.bounds=NSMakeRect(10,20,200,100);NSView *child=[[NSView alloc]initWithFrame:NSMakeRect(2,3,40,10)];[parent addSubview:child];[child centerInSuperview];NSCAssert(NSEqualRects(child.frame,NSMakeRect(90,65,40,10)),@"center includes bounds origin");
+ NSButton *button=[NSButton new];button.title=@"before";NSColor *red=[NSColor colorWithDeviceRed:1 green:0 blue:0 alpha:1];[button setText:@"after" withColor:red isShadow:YES];NSDictionary *a=[button.attributedTitle attributesAtIndex:0 effectiveRange:NULL];NSCAssert([button.title isEqualToString:@"after"]&&a[NSShadowAttributeName]!=nil,@"shadow attributes and replacement");[button setText:@"under" withColor:red isUnderLine:YES];a=[button.attributedTitle attributesAtIndex:0 effectiveRange:NULL];NSCAssert([a[NSUnderlineStyleAttributeName]intValue]==1,@"underline enabled");[button setText:@"plain" withColor:red isUnderLine:NO];a=[button.attributedTitle attributesAtIndex:0 effectiveRange:NULL];NSCAssert(a[NSUnderlineStyleAttributeName]==nil,@"underline removed");
+ NSLog(@"PASS AppKit centered geometry and attributed title shadow/underline mutations");
+}}

@@ -1,0 +1,36 @@
+
+/* Class = "NSTextFieldCell"; title = "0"; ObjectID = "4Qx-oa-wK2"; */
+"4Qx-oa-wK2.title" = "0";
+
+/* Class = "NSTextFieldCell"; title = "Dark"; ObjectID = "HfL-hf-dBW"; */
+"HfL-hf-dBW.title" = "深色";
+
+/* Class = "NSTextFieldCell"; title = "Auto"; ObjectID = "ONu-ec-Qfw"; */
+"ONu-ec-Qfw.title" = "自动";
+
+/* Class = "NSTextFieldCell"; title = "Liner Delay"; ObjectID = "PuY-5Q-cC1"; */
+"PuY-5Q-cC1.title" = "延迟消失";
+
+/* Class = "NSTextFieldCell"; title = "0"; ObjectID = "c2Q-gl-wNF"; */
+"c2Q-gl-wNF.title" = "0";
+
+/* Class = "NSTextFieldCell"; title = "Max Keys"; ObjectID = "d3g-2I-2b0"; */
+"d3g-2I-2b0.title" = "最大显示按键";
+
+/* Class = "NSTextFieldCell"; title = "Appearance"; ObjectID = "fQc-La-fO6"; */
+"fQc-La-fO6.title" = "外观";
+
+/* Class = "NSButtonCell"; title = "Don't Show Repeat Keys "; ObjectID = "hh0-Qu-O3o"; */
+"hh0-Qu-O3o.title" = "不显示重复按键";
+
+/* Class = "NSTextFieldCell"; title = "0"; ObjectID = "pO9-Ti-KJq"; */
+"pO9-Ti-KJq.title" = "0";
+
+/* Class = "NSTextFieldCell"; title = "Size"; ObjectID = "qW7-Ew-Tce"; */
+"qW7-Ew-Tce.title" = "大小";
+
+/* Class = "NSTextFieldCell"; title = "Light"; ObjectID = "qeh-FF-hDf"; */
+"qeh-FF-hDf.title" = "浅色";
+
+/* Class = "NSButtonCell"; title = "Show Shortcuts Only"; ObjectID = "skU-pg-F0d"; */
+"skU-pg-F0d.title" = "只显示快捷键";

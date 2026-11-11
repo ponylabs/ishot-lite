@@ -1,0 +1,12 @@
+
+/* Class = "NSWindow"; title = "Pin Library"; ObjectID = "fFq-XQ-FWb"; */
+"fFq-XQ-FWb.title" = "贴图库";
+
+/* Class = "NSTextFieldCell"; title = "Number of Pictures in the Library"; ObjectID = "j9W-DY-zFB"; */
+"j9W-DY-zFB.title" = "张图片保存在贴图库里面";
+
+/* Class = "NSTextFieldCell"; title = "Max"; ObjectID = "p98-b0-PD3"; */
+"p98-b0-PD3.title" = "最多";
+
+/* Class = "NSButtonCell"; title = "Delete all pin"; ObjectID = "Gfi-Vo-sRM"; */
+"Gfi-Vo-sRM.title" = "清空";

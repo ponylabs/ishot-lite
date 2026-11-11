@@ -1,0 +1,15 @@
+
+/* Class = "NSWindow"; title = "Audio Recording Setting"; ObjectID = "NvX-7c-q6X"; */
+"NvX-7c-q6X.title" = "Audio Recording Setting";
+
+/* Class = "NSTextFieldCell"; title = "MP3 Transcode"; ObjectID = "gAC-if-1tb"; */
+"gAC-if-1tb.title" = "MP3 Transcode";
+
+/* Class = "NSTextFieldCell"; title = "Time Left:"; ObjectID = "sbb-Or-ovj"; */
+"sbb-Or-ovj.title" = "Time Left:";
+
+/* Class = "NSTextFieldCell"; title = "100"; ObjectID = "tii-Yq-EXd"; */
+"tii-Yq-EXd.title" = "100";
+
+/* Class = "NSTextFieldCell"; title = "%"; ObjectID = "xuQ-XK-Ur4"; */
+"xuQ-XK-Ur4.title" = "%";

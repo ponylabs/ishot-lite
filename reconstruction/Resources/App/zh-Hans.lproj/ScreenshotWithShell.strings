@@ -1,0 +1,75 @@
+
+/* Class = "NSWindow"; title = "ScreenshotWithShell"; ObjectID = "C9y-AY-xxR"; */
+"C9y-AY-xxR.title" = "ScreenshotWithShell";
+
+/* Class = "NSTextFieldCell"; title = "Click to select model"; ObjectID = "bDp-if-Sl2"; */
+"bDp-if-Sl2.title" = "点击选择模型";
+
+/* Class = "NSButtonCell"; title = "Auto match models"; ObjectID = "RZS-ML-vJv"; */
+"RZS-ML-vJv.title" = "自动匹配适合的模型";
+
+
+
+/* Class = "NSMenuItem"; title = "Delay 6 Seconds"; ObjectID = "0oP-Kd-gEI"; */
+"0oP-Kd-gEI.title" = "延时6秒";
+
+/* Class = "NSMenuItem"; title = "Delay 0 Second"; ObjectID = "3CY-Ae-Q2D"; */
+"3CY-Ae-Q2D.title" = "延时0秒";
+
+/* Class = "NSMenuItem"; title = "Delay 3 Seconds"; ObjectID = "4yp-x1-rTp"; */
+"4yp-x1-rTp.title" = "延时3秒";
+
+/* Class = "NSMenuItem"; title = "Delay 18 Seconds"; ObjectID = "5bx-m8-hDb"; */
+"5bx-m8-hDb.title" = "延时18秒";
+
+/* Class = "NSMenuItem"; title = "Delay 12 Seconds"; ObjectID = "8Ng-np-8Oy"; */
+"8Ng-np-8Oy.title" = "延时12秒";
+
+
+/* Class = "NSMenuItem"; title = "Delay 15 Seconds"; ObjectID = "YK5-Bq-1C0"; */
+"YK5-Bq-1C0.title" = "延时15秒";
+
+/* Class = "NSMenuItem"; title = "Delay 11 Seconds"; ObjectID = "aKy-lr-Vdk"; */
+"aKy-lr-Vdk.title" = "延时11秒";
+
+/* Class = "NSMenuItem"; title = "Delay 8 Seconds"; ObjectID = "bvQ-pV-4fi"; */
+"bvQ-pV-4fi.title" = "延时8秒";
+
+/* Class = "NSMenuItem"; title = "Delay 4 Seconds"; ObjectID = "d3k-D4-CP3"; */
+"d3k-D4-CP3.title" = "延时4秒";
+
+/* Class = "NSMenuItem"; title = "Delay 2 Seconds"; ObjectID = "dMP-bT-EuL"; */
+"dMP-bT-EuL.title" = "延时2秒";
+
+/* Class = "NSMenuItem"; title = "Delay 1 Second"; ObjectID = "eds-Rh-yde"; */
+"eds-Rh-yde.title" = "延时1秒";
+
+/* Class = "NSMenuItem"; title = "Delay 16 Seconds"; ObjectID = "f6o-CT-4um"; */
+"f6o-CT-4um.title" = "延时16秒";
+
+/* Class = "NSMenuItem"; title = "Delay 20 Seconds"; ObjectID = "fDr-W0-zwS"; */
+"fDr-W0-zwS.title" = "延时20秒";
+
+/* Class = "NSMenuItem"; title = "Delay 13 Seconds"; ObjectID = "fEd-zo-WRE"; */
+"fEd-zo-WRE.title" = "延时13秒";
+
+/* Class = "NSMenuItem"; title = "Delay 9 Seconds"; ObjectID = "faS-ya-CyS"; */
+"faS-ya-CyS.title" = "延时9秒";
+
+/* Class = "NSMenuItem"; title = "Delay 7 Seconds"; ObjectID = "hw2-2x-Hxk"; */
+"hw2-2x-Hxk.title" = "延时7秒";
+
+/* Class = "NSMenuItem"; title = "Delay 5 Seconds"; ObjectID = "mDZ-82-s6n"; */
+"mDZ-82-s6n.title" = "延时5秒";
+
+/* Class = "NSMenuItem"; title = "Delay 10 Seconds"; ObjectID = "mH6-zt-tL3"; */
+"mH6-zt-tL3.title" = "延时10秒";
+
+/* Class = "NSMenuItem"; title = "Delay 17 Seconds"; ObjectID = "p5B-m8-cWk"; */
+"p5B-m8-cWk.title" = "延时17秒";
+
+/* Class = "NSMenuItem"; title = "Delay 14 Seconds"; ObjectID = "pFH-XB-ahM"; */
+"pFH-XB-ahM.title" = "延时14秒";
+
+/* Class = "NSMenuItem"; title = "Delay 19 Seconds"; ObjectID = "rIB-ES-NYm"; */
+"rIB-ES-NYm.title" = "延时19秒";
