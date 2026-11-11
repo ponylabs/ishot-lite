@@ -1,6 +1,8 @@
 # iShot Lite
 
-这是从 iShot 静态恢复材料重建并继续维护的 macOS 桌面应用。当前工程包含主应用、helper、组件源码、在用资源与依赖，以及本地构建、受控测试和 DMG 打包流程。它不是 DeepSeek 产品，也不承诺与原版完整等价。
+<img src="reconstruction/Assets/LiteIcon.png" alt="iShot Lite 图标" width="128">
+
+这是从 iShot 静态恢复材料重建并继续维护的 macOS 桌面应用。当前工程包含主应用、helper、组件源码、在用资源与依赖，以及本地构建、受控测试和 DMG 打包流程。不承诺与原版完整等价。
 
 应用目前面向 Apple Silicon（arm64），声明最低 macOS 12.3；使用 ad-hoc 签名，未公证。最低系统声明来自静态部署目标检查，不等于已在 macOS 12.3 实机验证。原版与 Lite 保留相同 bundle ID，不能同时运行，偏好及通知可能共享。
 
@@ -26,4 +28,4 @@
 - [恢复工程](reconstruction/README.md)：实现、模块契约与证据入口。
 - [来源与许可](THIRD_PARTY_NOTICES.md)：harness 来源及原始材料的权利边界。
 
-工程方法沿用 harness-seed 的 seek Skills、Notes 生命周期与验证入口。Skills 按任务读取；当前文档随实现原位更新，早期恢复材料归档在工程外；在用输入的来源仍保留，不因迁移变成独立原创。
+Skills 按任务读取；当前文档随实现原位更新，早期恢复材料归档在工程外；在用输入的来源仍保留，不因迁移变成独立原创。

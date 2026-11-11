@@ -44,7 +44,7 @@
 
 ## 本仓库验证
 
-命令与覆盖范围见 [测试说明](docs/testing.md)。基础检查、Skill 格式和真实 Agent 场景分别报告；不得把前两者通过说成模型始终正确。涉及上游改编时同步[来源与许可](THIRD_PARTY_NOTICES.md)及[迁移映射](docs/upstream-mapping.md)。
+命令与覆盖范围见 [测试说明](docs/testing.md)。基础检查、Skill 格式和真实 Agent 场景分别报告；不得把前两者通过说成模型始终正确。涉及第三方材料时同步[来源与许可](THIRD_PARTY_NOTICES.md)。
 
 ## iShot 项目边界
 

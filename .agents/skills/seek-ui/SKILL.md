@@ -34,7 +34,7 @@ description: 设计、实现或审查用户可见界面的对齐、间距、图�
 
 布局读 [对齐](references/alignment.md) 和 [间距](references/spacing.md)；选择、绘制、复用或审查图标及图标控件时读 [图标](references/icons.md)。其他任务只读相关部分，不默认全量加载。
 
-Web 项目按 [文档约定](../../../docs/AGENTS.md) 使用实际项目的 `docs/web-styling.md`；需要独立圆角规范时使用 `docs/ui-radius.md`。参数值归实际主题和组件实现，文档拥有语义、映射与例外。没有这些场景时不建空文件，不采用 DeepSeek 的字号、字体、圆角、颜色、固定最小宽度和产品审批名单。
+Web 项目按 [文档约定](../../../docs/AGENTS.md) 使用实际项目的 `docs/web-styling.md`；需要独立圆角规范时使用 `docs/ui-radius.md`。参数值归实际主题和组件实现，文档拥有语义、映射与例外。没有这些场景时不建空文件，不照搬其他产品的字号、字体、圆角、颜色、固定最小宽度和审批名单。
 
 ## 先复用再新增
 

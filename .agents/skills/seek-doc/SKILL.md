@@ -42,7 +42,6 @@ description: 在明确范围内创建、重构、审阅、审计或迁移项目�
 - [审查与验证](references/review.md)：读者验收、规模控制、检查选择和负例。
 - [页面表达与导航](references/page-style.md)：读者深度、清晰措辞、折叠与渲染安全。
 - [可选骨架](templates/document-patterns.md)：按职责选取，不能整批生成空文档。
-- [来源与迁移覆盖](references/upstream-map.md)：本 Skill 的上游基线和适配理由，仅维护模板或审计迁移时读取。
 
 ## 专项工作
 
